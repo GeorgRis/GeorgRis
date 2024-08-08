@@ -1,5 +1,7 @@
 <body>
-<h1 align="center">Georg Mykjåland Risøy</h1>
+<h1 align="center">Georg Mykjåland Risøy <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGeorgRis&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/>
+</a></h1>
 <h3 align="center">AI student at university of Bergen</h3>
 
 <img align="right" alt="Coding" width="400" height="400" src="https://miro.medium.com/v2/resize:fit:1050/0*HQ7WKolP9iEr0z6x.gif">
