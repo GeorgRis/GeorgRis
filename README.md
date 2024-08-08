@@ -16,7 +16,6 @@
 
 
 <details>
-  <summary><h2><img align="center" src="https://github.com/GeorgRis/GeorgRis/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
   <div align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=GeorgRis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"><img src="https://github-readme-stats.vercel.app/api?username=GeorgRis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"></a><br/>
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=GeorgRis&theme=tokyonight&hide_border=false"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgRis&theme=tokyonight&hide_border=false" alt="GitHub Streak"></a><br/>
