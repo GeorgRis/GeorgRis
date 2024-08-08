@@ -16,7 +16,7 @@
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgRis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgRis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"></a><br/>
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 <details>
   <summary><h2>Stats</h2></summary>
