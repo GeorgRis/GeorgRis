@@ -48,11 +48,11 @@
     </td>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="https://miro.medium.com/v2/resize:fit:1050/0*HQ7WKolP9iEr0z6x.gif" alt="Coding GIF" width="400px">
+        <img src="https://miro.medium.com/v2/resize:fit:1050/0*HQ7WKolP9iEr0z6x.gif" alt="Coding GIF" width="auto">
       </p>
       <h3 align="center">GitHub Stats</h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgRis&layout=compact&theme=tokyonight" alt="Top Languages" width="380px">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgRis&layout=compact&theme=tokyonight" alt="Top Languages">
       </p>
     </td>
   </tr>
@@ -63,6 +63,6 @@
 <details>
 <summary><h3>Activity Details</h3></summary>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgRis&theme=tokyonight" alt="GitHub Streak" width="500px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgRis&theme=tokyonight" alt="GitHub Streak">
 </p>
 </details>
