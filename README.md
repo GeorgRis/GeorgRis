@@ -54,9 +54,6 @@
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgRis&layout=compact&theme=tokyonight" alt="Top Languages">
       </p>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=GeorgRis&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-      </p>
     </td>
   </tr>
 </table>
