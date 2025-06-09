@@ -48,7 +48,7 @@
     </td>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="https://miro.medium.com/v2/resize:fit:1050/0*HQ7WKolP9iEr0z6x.gif" alt="Coding GIF" width="auto">
+        <img src="https://miro.medium.com/v2/resize:fit:1050/0*HQ7WKolP9iEr0z6x.gif" alt="Coding GIF" width="400">
       </p>
       <h3 align="center">GitHub Stats</h3>
       <p align="center">
