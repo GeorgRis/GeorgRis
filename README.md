@@ -1,27 +1,71 @@
-<body>
-<h1 align="center">Georg Mykjåland Risøy <a href="https://hits.seeyoufarm.com"></h1>
-<h3 align="center">AI student at university of Bergen</h3>
+<h1 align="center">Georg Mykjåland Risøy</h1>
+<h3 align="center">AI Student at University of Bergen</h3>
 
-<img align="right" alt="Coding" width="400" height="400" src="https://miro.medium.com/v2/resize:fit:1050/0*HQ7WKolP9iEr0z6x.gif">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/georgrisøy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgrisøy" height="30" width="40" /></a>
-<a href="https://instagram.com/georgrisoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="georgrisoy" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/georgrisoy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/georgrisoy" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgRis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgRis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"></a><br/>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Languages and Tools</h3>
+      <p align="center">
+        <b>Programming Languages</b><br><br>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      </p>
+      <p align="center">
+        <b>Data Science & AI</b><br><br>
+        <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+        <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+        <img src="https://img.shields.io/badge/OpenCV-273380?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+      </p>
+      <p align="center">
+        <b>Data Visualization</b><br><br>
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+        <img src="https://img.shields.io/badge/Seaborn-3D4F61?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
+        <img src="https://img.shields.io/badge/Plotly-2D73B4?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+      </p>
+      <p align="center">
+        <b>Web Development</b><br><br>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+      </p>
+      <p align="center">
+        <b>Currently Learning</b><br><br>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://miro.medium.com/v2/resize:fit:1050/0*HQ7WKolP9iEr0z6x.gif" alt="Coding GIF" width="auto">
+      </p>
+      <h3 align="center">GitHub Stats</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgRis&layout=compact&theme=tokyonight" alt="Top Languages">
+      </p>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=GeorgRis&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 
 <details>
-  <summary><h2>Stats</h2></summary>
-  <div align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=GeorgRis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"><img src="https://github-readme-stats.vercel.app/api?username=GeorgRis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"></a><br/>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=GeorgRis&theme=tokyonight&hide_border=false"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgRis&theme=tokyonight&hide_border=false" alt="GitHub Streak"></a><br/>
-  </div>
+<summary><h3>Activity Details</h3></summary>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgRis&theme=tokyonight" alt="GitHub Streak">
+</p>
 </details>
-
-
-</body>
