@@ -44,6 +44,7 @@
       <p align="center">
         <b>Currently Learning</b><br><br>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell">
       </p>
     </td>
     <td width="50%" valign="top">
