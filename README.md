@@ -38,9 +38,23 @@
         <img src="https://img.shields.io/badge/Plotly-2D73B4?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
       </p>
       <p align="center">
+        <b>Backend & Messaging</b><br><br>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka">
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+      </p>
+      <p align="center">
         <b>Web Development</b><br><br>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
+      </p>
+      <p align="center">
+        <b>Infrastructure & CI/CD</b><br><br>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+        <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       </p>
       <p align="center">
         <b>Currently Learning</b><br><br>
@@ -54,6 +68,12 @@
       <h3 align="center">GitHub Stats</h3>
       <p align="center">
         <img src="./profile/top-langs.svg" alt="Top Languages">
+      </p>
+      <h3 align="center">Coding Challenges</h3>
+      <p align="center">
+        <a href="https://www.codewars.com/users/GeorgRis" target="_blank">
+          <img src="https://www.codewars.com/users/GeorgRis/badges/large" alt="Codewars Stats">
+        </a>
       </p>
     </td>
   </tr>
