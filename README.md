@@ -21,6 +21,7 @@
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell">
       </p>
       <p align="center">
         <b>Data Science & AI</b><br><br>
@@ -44,7 +45,6 @@
       <p align="center">
         <b>Currently Learning</b><br><br>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-        <img src="https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell">
       </p>
     </td>
     <td width="50%" valign="top">
@@ -53,7 +53,7 @@
       </p>
       <h3 align="center">GitHub Stats</h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgRis&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgRis" alt="Top Languages">
       </p>
     </td>
   </tr>
