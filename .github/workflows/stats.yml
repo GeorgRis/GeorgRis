@@ -14,7 +14,7 @@ jobs:
         with:
           card: top-langs
           # Change these options to match your style
-          options: username=GeorgRis&theme=tokyonight
+          options: username=GeorgRis&theme=tokyonight&hide=jupyter%20notebook
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit and Push
