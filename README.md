@@ -72,7 +72,7 @@
       <h3 align="center">Coding Challenges</h3>
       <p align="center">
         <a href="https://www.codewars.com/users/GeorgRis" target="_blank">
-          <img src="https://www.codewars.com/users/GeorgRis/badges/large" alt="Codewars Stats">
+          <img src="https://www.codewars.com/users/georgris/badges/large" alt="Codewars Stats">
         </a>
       </p>
     </td>
