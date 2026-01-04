@@ -53,7 +53,7 @@
       </p>
       <h3 align="center">GitHub Stats</h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgRis" alt="Top Languages">
+        <img src="./profile/top-langs.svg" alt="Top Languages">
       </p>
     </td>
   </tr>
